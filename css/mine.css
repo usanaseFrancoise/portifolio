@@ -10,9 +10,10 @@ ul li{
 ul{
     text-align: center;
     background-color: darkblue;
+    color:white;
 }
-
-
-
+ul li a:hover{
+    color:white;
+    background-color:black;
 
 }
