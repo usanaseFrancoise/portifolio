@@ -1,10 +1,31 @@
 h1{
     color:darkblue;
+    text-align:center;
 
 }
-.image{
-    display:inline;
-     margin:90px;
-     padding: 50px;
-     position:absolute;
+nav>ul{
+    text-align: center;
+    margin:70px;
+    padding:70px;
+    display:flex;
+    justify-content: space-around;
+}
+
+a{
+    color:white;
+    font-weight: bold;
+    display:flex;
+    align-content: flex-end;
+    justify-content: flex-start;
+    text-transform: uppercase;
+    display: block;
+    top:100px;
+}
+#fanny ul li{
+    float:right;
+    top:-200px;
+    bottom:0px;
+    position:relative;
+    display:block;
+
 }
