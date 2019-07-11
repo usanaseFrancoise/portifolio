@@ -32,4 +32,5 @@ ul li a:hover{
     display:flex;
     flex-direction: column;
    justify-content: flex-start;
+   width:20%;
 }
