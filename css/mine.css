@@ -23,7 +23,6 @@ a{
 }
 #fanny ul li{
     float:right;
-    top:-200px;
     bottom:0px;
     position:relative;
     display:block;
