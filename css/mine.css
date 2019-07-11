@@ -17,5 +17,19 @@ ul{
 ul li a:hover{
     color:white;
     background-color:black;
-
+}
+.head2{
+    display:flex;
+    flex-direction:row;
+}
+#head{
+    display: flex;
+    justify-content:flex-end;
+    text-align: center;
+     padding:70px;
+}
+#photo{
+    display:flex;
+    flex-direction: column;
+   justify-content: flex-start;
 }
