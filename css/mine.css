@@ -6,6 +6,8 @@ h1{
 ul li{
     display:inline-block;
     padding:30px;
+    color:white;
+    font-weight: bold;
 }
 ul{
     text-align: center;
