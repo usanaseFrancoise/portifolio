@@ -1,6 +1,10 @@
 h2{
     text-align:center;
+    color:darkblue;
     
+}
+h1{
+    color:darkblue;
 }
 body{
     background-color:white;
@@ -11,4 +15,6 @@ body{
 .contact{
     text-align:center;
     font-weight:bold;
+    color:darkblue;
+    margin:40px;
 }
