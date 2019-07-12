@@ -1,11 +1,22 @@
 h1{
-    text-align: center;
     color:darkblue;
-}
-p{
-    font-size: 19px;;
+    text-align: center;
 }
 body{
+    margin-left:90px;
+    margin-right:90px;
+}
+.none{
+    text-align:center;
+    font-weight:bold;
+    background-color:darkblue;
+    color:white;
+}
+h2{
+    color: darkblue;
+}
+body{
+   
     margin-left:90px;
     margin-right:90px;
 }
@@ -32,13 +43,4 @@ ul li a:hover{
     text-decoration: none;
     border:1px solid transparent;
 
-}
-img{
-    margin-left:150px;
-}
-.none{
-    text-align:center;
-    font-weight:bold;
-    background-color:darkblue;
-    color:white;
 }
