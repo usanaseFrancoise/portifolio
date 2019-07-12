@@ -3,21 +3,37 @@ h1{
     text-align:center;
 
 }
-ul li{
-    display:inline-block;
-    padding:30px;
-    color:white;
-    font-weight: bold;
+h2{
+    margin-left:250px;
+    font-size:30px;
+    margin-bottom: -30px;
 }
 ul{
     text-align: center;
     background-color: darkblue;
+  
+}
+ul li{
+    display:inline-block;
+    padding:30px;
+    font-weight: bold;
+   
+}
+ul li a {
+    text-decoration: none;
     color:white;
+    font-size: 20px;
+
 }
 ul li a:hover{
-    color:white;
-    background-color:black;
+    
+color:black;
+    font-size: 20px;
+    text-decoration: none;
+border:1px solid transparent;
+
 }
+
 .head2 {
          display:flex;
           flex-direction:row;
@@ -28,6 +44,7 @@ ul li a:hover{
     text-align:center;
     padding:50px;
     width:560px;
+    left: 30px;
 }
 #photo{
     display:flex;
@@ -35,14 +52,29 @@ ul li a:hover{
     justify-content:flex-start;
 }  
 
-h3 p{
-    width:20%;
+#head p{
+    font-size: 15px;
 }
 #head p{
     width:290%;
 }
 body{
     background-color:white;
-    margin-left:20%;
-    margin-right:20%;
+    margin-left:4%;
+    margin-right:4%;
+}
+.none{
+    text-align:center;
+    font-weight:bold;
+    background-color:darkblue;
+    color:white;
+}
+ #f {
+    font-style: oblique;
+ }   
+ #e{
+    font-style:oblique;
+}
+#head p{
+    font-size:20px;
 }
